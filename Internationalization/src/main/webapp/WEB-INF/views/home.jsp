@@ -25,6 +25,7 @@
 		<option value=""></option>
 		<option value="en"><fmt:message key="language.eng" /></option>
 		<option value="it"><fmt:message key="language.it" /></option>
+		<option value="fr"><fmt:message key="language.fr" /></option>
 	</select>
 
 	<script
